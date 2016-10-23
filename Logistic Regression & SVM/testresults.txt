@@ -1,0 +1,19 @@
+C = 1  Train Accuracy:94.294%
+C = 1  Val Accuracy:94.02%
+C = 1  Test Accuracy:94.42%
+========================
+C = 80 Train Accuracy:99.438%
+C = 80  Val Accuracy:97.39%
+C = 80  Test Accuracy:97.33%
+=============================
+C = 90  Train Accuracy:99.542%
+C = 90 Val Accuracy:97.36%
+C = 90  Test Accuracy:97.34%
+===============================
+C = 100  Train Accuracy:99.612%
+C = 100  Val Accuracy:97.41%
+C = 100  Test Accuracy:97.4%
+=======================================
+C = 70  Train Accuracy:99.34%
+C = 70  Val Accuracy:97.36%
+C = 70  Test Accuracy:97.26%
